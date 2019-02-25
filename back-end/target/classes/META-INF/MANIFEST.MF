@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ws-in28minutes
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: misdagbo
+Implementation-Vendor-Id: com.in28minutes.rest.webservices
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ws-in28minutes
+Created-By: Maven Integration for Eclipse
+
