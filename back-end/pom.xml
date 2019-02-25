@@ -9,11 +9,11 @@
 		<version>2.2.0.BUILD-SNAPSHOT</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.in28minutes.rest.webservices</groupId>
-	<artifactId>ws-in28minutes</artifactId>
+	<groupId>com.fullStack.rest.webservices</groupId>
+	<artifactId>ws-fullStack</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<name>ws-in28minutes</name>
+	<name>ws-fullStack</name>
 	<description>Demo project for Spring Boot</description>
 
 
